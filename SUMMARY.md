@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
+* [SkySwap Intro](README.md)
 * [FAQ](faq.md)
 
 ## Core Products
@@ -8,20 +8,16 @@
 * [Exchange](core-products/pancakeswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
 * [Farms](core-products/farms.md)
-* [Voting](core-products/voting.md)
-* [Analytics](core-products/pancakeswap-analytics.md)
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
+* [Sky Basics](tokenomics/untitled.md)
 * [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
 
 ## Guides
 
-* [Binance Academy Guide](guides/binance-academy-guide.md)
-* [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [How to use MetaMask on PancakeSwap](guides/untitled.md)
+* [How to use SkySwap with Trust Wallet](guides/how-to-use-skyswap-with-trust-wallet.md)
+* [How to use MetaMask on SkySwap](guides/untitled.md)
 
 ## Community / Social
 

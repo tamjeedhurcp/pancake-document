@@ -1,14 +1,14 @@
-# Pancake Swap Intro
+# SkySwap Intro
 
-PancakeSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.
+SkySwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.
 
 ![](.gitbook/assets/masthead-twitter.png)
 
 **The Dream?**
 
-Stacks of pancakes, syrup, whipped cream.
+Stacks of Skys, syrup, whipped cream.
 
-Then after breakfast, PancakeSwap is aiming to be the \#1 liquidity provider on Binance Smart Chain and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.
+Then after breakfast ,SkySwap is aiming to be the \#1 liquidity provider on Heco Smart Chain and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.
 
 **Why Binance Smart Chain \(BSC\)?**
 
@@ -16,7 +16,7 @@ To be honest, it’s a no brainer. In very simple terms, why would we want to dr
 
 Faster, cheaper. **Sold.**
 
-**What makes PancakeSwap different from every other “farm”?**
+**What makes SkySwap different from every other “farm”?**
 
 We’re here to have fun.
 
