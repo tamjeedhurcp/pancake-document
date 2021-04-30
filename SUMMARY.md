@@ -5,7 +5,7 @@
 
 ## Core Products
 
-* [Exchange](core-products/pancakeswap-exchange.md)
+* [Exchange](core-products/skyswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
 * [Farms](core-products/farms.md)
 

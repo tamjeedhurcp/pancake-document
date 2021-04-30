@@ -1,6 +1,6 @@
 # SYRUP \(Staking\)
 
-**Stack your CAKE with syrup.**
+**Stack your SKY with syrup.**
 
 * 25% of SKY emissions will be distributed to SYRUP holders every block. Users can claim these rewards and re-invest them.
 * SKY holders can swap SKY for SYRUP at a 1:1 ratio.
