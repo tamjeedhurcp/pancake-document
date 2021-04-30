@@ -17,7 +17,7 @@ It’s not all bad for liquidity providers as you will also be given a reward in
 
 For example:
 
-* There are 10 FLIP tokens representing 10 CAKE and 10 BNB tokens.
+* There are 10 FLIP tokens representing 10 Sky and 10 BNB tokens.
 * 1 FLIP token = 1 SKY + 1 BNB
 * Someone trades 10 SKY for 10 BNB.
 * Someone else trades 10 BNB for 10 SKY.
