@@ -2,7 +2,7 @@
 
 \*\*\*\*[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on SkySwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
-![Simple Swap UI](../.gitbook/assets/screenshot-2020-09-17-at-10.38.29-pm.png)
+![Swap Exchange](../.gitbook/assets/capture.png)
 
 The liquidity provided to the exchange comes from Liquidity Providers \("LPs"\) who stake their tokens in "Pools". In exchange, they get FLIP \(SkySwap Liquidity Provider\) tokens, which can also be staked to earn CAKE tokens in the "farm".
 
